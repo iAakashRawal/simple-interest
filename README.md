@@ -1,0 +1,2 @@
+# simple-interest
+by AKash
